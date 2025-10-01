@@ -1,6 +1,6 @@
 # Car-Rental-Report
 
-Problem Statement
+**Problem Statement**
 
 Car rental businesses often face challenges in managing fleet utilization, tracking revenue, and understanding customer booking patterns. Without a centralized dashboard, decisions regarding vehicle allocation, pricing, and marketing can be delayed or inaccurate, impacting revenue and operational efficiency.
 
@@ -16,7 +16,7 @@ Project Link: https://app.powerbi.com/view?r=eyJrIjoiZDFiYTM2MzEtOGI2Ny00ZDE2LWF
 
 **DAX** – Custom calculations and KPIs
 
-###**Solution**
+**Solution**
 Developed a Power BI dashboard providing actionable insights for the car rental business. It tracks fleet utilization, revenue by vehicle type and rental duration, booking trends, and identifies underperforming vehicles and operational bottlenecks. Interactive filters enable stakeholders to drill down into different periods and segments, helping them make real-time, data-driven decisions to optimize fleet usage, improve revenue, and enhance overall operational efficiency.
 
 **Key Features / KPIs**
@@ -38,7 +38,7 @@ The report is divided into three main sections, accessible via the navigation pa
 
 3.  **Units:** This section focuses on the car fleet itself. It displays a detailed table of each vehicle model, showing metrics such as the number of rentals, revenue generated, and growth trends. This allows for a granular analysis of individual car performance.
 
-###**Impact / Key Takeaways**
+**Impact / Key Takeaways**
 
 **Improved Fleet Utilization:** Identified underutilized vehicles, helping the business increase rental efficiency by ~15%.
 
