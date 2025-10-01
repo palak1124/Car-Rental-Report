@@ -8,7 +8,7 @@ Car rental businesses often face challenges in managing fleet utilization, track
 
 Project Link: https://app.powerbi.com/view?r=eyJrIjoiZDFiYTM2MzEtOGI2Ny00ZDE2LWFhMTUtYjkzOGJhNzk0MjFkIiwidCI6ImExNzMxZTY3LTM2ZmEtNDAxOC1hZGFjLTYwZjQ1MmFlYmViMiJ9
 
-###**Tools Used**
+**Tools Used**
 
 **Power BI** – Interactive dashboard creation and visualization
 
@@ -40,13 +40,13 @@ The report is divided into three main sections, accessible via the navigation pa
 
 **Impact / Key Takeaways**
 
-**Improved Fleet Utilization:** Identified underutilized vehicles, helping the business increase rental efficiency by ~15%.
+1. **Improved Fleet Utilization:** Identified underutilized vehicles, helping the business increase rental efficiency by ~15%.
 
-**Revenue Insights:** Analysis of vehicle types and rental durations highlighted high-demand segments, contributing to targeted promotions expected to boost revenue by 10–12%.
+2. **Revenue Insights:** Analysis of vehicle types and rental durations highlighted high-demand segments, contributing to targeted promotions expected to boost revenue by 10–12%.
 
-**Operational Efficiency:** Pinpointed bottlenecks in booking trends and maintenance schedules, reducing idle vehicle time by ~20%.
+3. **Operational Efficiency:** Pinpointed bottlenecks in booking trends and maintenance schedules, reducing idle vehicle time by ~20%.
 
-**Data-Driven Decisions:** Stakeholders can now monitor daily bookings, revenue, and vehicle performance in real-time, enabling faster and more informed decisions.
+4. **Data-Driven Decisions:** Stakeholders can now monitor daily bookings, revenue, and vehicle performance in real-time, enabling faster and more informed decisions.
 
-**Scalable Framework:** Dashboard structure allows adding new metrics like customer feedback or seasonal pricing without redesign, improving long-term reporting capabilities.
+5. **Scalable Framework:** Dashboard structure allows adding new metrics like customer feedback or seasonal pricing without redesign, improving long-term reporting capabilities.
 
