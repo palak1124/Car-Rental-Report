@@ -1,6 +1,6 @@
 # Car-Rental-Report
 
-#**Problem Statement**
+# **Problem Statement**
 
 Car rental businesses often face challenges in managing fleet utilization, tracking revenue, and understanding customer booking patterns. Without a centralized dashboard, decisions regarding vehicle allocation, pricing, and marketing can be delayed or inaccurate, impacting revenue and operational efficiency.
 
@@ -38,7 +38,7 @@ The report is divided into three main sections, accessible via the navigation pa
 
 3.  **Units:** This section focuses on the car fleet itself. It displays a detailed table of each vehicle model, showing metrics such as the number of rentals, revenue generated, and growth trends. This allows for a granular analysis of individual car performance.
 
-#**Impact / Key Takeaways**
+# **Impact / Key Takeaways**
 
 1. **Improved Fleet Utilization:** Identified underutilized vehicles, helping the business increase rental efficiency by ~15%.
 
